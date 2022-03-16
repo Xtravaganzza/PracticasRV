@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\TAREAS\\Tareas2022-2\\Temas Selectos de Ingenieria III\\Practicas\\Practica3\\Temp\\gradleOut\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admon\\.gradle\\caches\\transforms-2\\files-2.1\\30bd092207bce6d6ab14a9d808227d77\\res\\values-v21\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "147",
+                        "endLines": "5",
+                        "endColumns": "8",
+                        "endOffsets": "237"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "159",
+                        "endLines": "5",
+                        "endColumns": "8",
+                        "endOffsets": "249"
+                    }
+                },
+                {
+                    "source": "D:\\TAREAS\\Tareas2022-2\\Temas Selectos de Ingenieria III\\Practicas\\Practica3\\Temp\\gradleOut\\launcher\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "53",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "153"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        }
+    ]
+}

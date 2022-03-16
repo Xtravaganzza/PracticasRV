@@ -1,0 +1,4 @@
+#Tue Mar 15 23:37:51 CST 2022
+base.0=D\:\\TAREAS\\Tareas2022-2\\Temas Selectos de Ingenieria III\\Practicas\\Practica3\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
